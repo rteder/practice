@@ -25,6 +25,8 @@
 
     </div>
 
+    <h3>Monkey Droolz</h3>
+
     <!-- Single button -->
     <div class="btn-group">
         <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
