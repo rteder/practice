@@ -21,7 +21,7 @@
     <h1>Hello, world!</h1>
     <div class="jumbotron">
         <p>Among horses, Dash is Clearly The BEST</p>
-        <h1>DASH IS THE BEST</h1>
+        <h1>DASH IS THE BEST HORSE</h1>
 
     </div>
 
