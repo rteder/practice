@@ -26,7 +26,9 @@ inventory
     </div>
     <p>This was added to a commit on the master, but after the test branch.</p>
 
-    <h3>Monkey Droolz</h3>
+    <p> On the next commit we modify the following line, likely causing conflict:</p>
+
+    <h3>Monkey Droolz a Lot!</h3>
 
     <!-- Single button -->
     <div class="btn-group">
