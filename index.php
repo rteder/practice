@@ -13,7 +13,7 @@
 
 </head>
 <body>
-
+inventory
 
 <div class="container">
 
@@ -24,6 +24,7 @@
         <h1>DASH IS THE BEST HORSE</h1>
 
     </div>
+    <p>This was added to a commit on the master, but after the test branch.</p>
 
     <h3>Monkey Droolz</h3>
 
