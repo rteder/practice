@@ -13,7 +13,7 @@
 
 </head>
 <body>
-inventory
+
 
 <div class="container">
 
@@ -24,11 +24,10 @@ inventory
         <h1>DASH IS THE BEST HORSE</h1>
 
     </div>
-    <p>This was added to a commit on the master, but after the test branch.</p>
 
-    <p> On the next commit we modify the following line, likely causing conflict:</p>
+    <p>Added to test_branch, first commit on that branch</p>
 
-    <h3>Monkey Droolz a Lot!</h3>
+    <h3>Monkey Droolz</h3>
 
     <!-- Single button -->
     <div class="btn-group">
